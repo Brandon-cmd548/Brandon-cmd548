@@ -2,7 +2,7 @@
 
 # Hi, I’m Brandon Zander Purcell
 
-I’m a student and aspiring software engineer with an interest in building practical, data-driven solutions and understanding how systems work in real-world environments.
+I’m a student and aspiring software/Agentic AI engineer with an interest in building practical, data-driven solutions and understanding how systems work in real-world environments.
 
 ---
 
