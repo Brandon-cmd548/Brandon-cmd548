@@ -12,7 +12,7 @@ I’m a student and aspiring software/Agentic AI engineer with an interest in bu
 C#, JavaScript, T-SQL, HTML, CSS    
 
 **Tools:**  
-Git, GitHub, SQL Server, Visual Studio, Visual Studio Code  
+Git, GitHub, SQL Server, Visual Studio, Visual Studio Code, intelliJ, Ollama, Odysseus
 
 ---
 
