@@ -1,4 +1,4 @@
-## Hi there :)
+## Howzit :)
 
 # Hi, I’m Brandon Zander Purcell
 
