@@ -2,7 +2,7 @@
 
 # Hi, I’m Brandon Zander Purcell
 
-I’m a student and aspiring software/Agentic AI engineer with an interest in building practical, data-driven solutions and understanding how systems work in real-world environments.
+I’m a student and aspiring software/AI automation engineer with an interest in building practical, data-driven solutions and understanding how systems work in the professional industry.
 
 ---
 
@@ -21,8 +21,6 @@ Git, GitHub, SQL Server, Visual Studio, Visual Studio Code, intelliJ, Ollama, Od
 - AI and agentic AI concepts  
 - Automation and intelligent workflows  
 - Applying software solutions to sustainability challenges  
-
-Hack the Waste will allow me to apply my technical skills while broadening my understanding of sustainability and collaborative, real-world development.
 
 ---
 
