@@ -15,7 +15,7 @@ Java, Python, PL/pgSQL, Machine Learning
 ### Tools:
 Git, GitHub, Visual Studio 2022, Visual Studio Code, IntelliJ IDE, SQL Management Studio 2022, CISCO Packet Tracer, Ollama, Odysseus
 #### In-Progress
-Visual Studio 2022, Visual Studio Code, IntelliJ IDE, SQL Management Studio 2022, CISCO Packet Tracer
+Docker, PostgreSQL Database Management Server
 ### Technologies
 Artificial Intelligence (AI), System analysis and design, Information Systems, Fundamental IT Technician skills, Fundamental Network Architecture
 ### Common Ecosystems
