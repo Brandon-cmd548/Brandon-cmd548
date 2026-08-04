@@ -18,9 +18,9 @@ Git, GitHub, SQL Server, Visual Studio, Visual Studio Code, intelliJ, Ollama, Od
 
 ## Current Focus
 
-- AI and agentic AI concepts  
-- Automation and intelligent workflows  
-- Applying software solutions to sustainability challenges  
+- Achieving my Software Engineering degree
+- Backend Software Engineering and lite full-stack-development
+- AI Automation and workflows
 
 ---
 
@@ -32,7 +32,7 @@ Git, GitHub, SQL Server, Visual Studio, Visual Studio Code, intelliJ, Ollama, Od
 
 
 <div align="left">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif"
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhyYTVyZzFoaDhqcnduZTAyaTYwY3A5bWtiOWc1YXV2cWVpYjlociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif"
        width="400"
        style="border: 2px solid #444; border-radius: 8px; padding: 6px;" />
 </div>
