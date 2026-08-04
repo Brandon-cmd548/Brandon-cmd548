@@ -10,10 +10,18 @@ I’m a student and aspiring software/AI automation engineer with an interest in
 
 **Languages:**  
 C#, JavaScript, T-SQL, HTML, CSS    
-
+    **In-Progress**
+      Java, Python, PL/pgSQL, Machine Learning
 **Tools:**  
-Git, GitHub, SQL Server, Visual Studio, Visual Studio Code, intelliJ, Ollama, Odysseus
-
+Git, GitHub, Visual Studio 2022, Visual Studio Code, IntelliJ IDE, SQL Management Studio 2022, CISCO Packet Tracer, Ollama, Odysseus
+    **In-Progress**
+      Visual Studio 2022, Visual Studio Code, IntelliJ IDE, SQL Management Studio 2022, CISCO Packet Tracer
+**Technologies**
+Artificial Intelligence (AI), System analysis and design, Information Systems, Fundamental IT Technician skills, Fundamental Network Architecture
+**Common Ecosystems**
+Full microsoft ecosystem understanding, Full Google ecosystem understanding
+    **In-Progress**
+             Amazon Web Services (AWS)
 ---
 
 ## Current Focus
