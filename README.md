@@ -10,18 +10,18 @@ I’m a student and aspiring software/AI automation engineer with an interest in
 
 ### Languages:
 C#, JavaScript, T-SQL, HTML, CSS    
-#### In-Progress
-Java, Python, PL/pgSQL, Machine Learning
+  #### In-Progress
+  Java, Python, PL/pgSQL, Machine Learning
 ### Tools:
-Git, GitHub, Visual Studio 2022, Visual Studio Code, IntelliJ IDE, SQL Management Studio 2022, CISCO Packet Tracer, Ollama, Odysseus
-#### In-Progress
-Docker, PostgreSQL Database Management Server
+Git, GitHub, Visual Studio 2026, Visual Studio Code, IntelliJ IDEA, SQL Management Studio 2022, CISCO Packet Tracer, Ollama, Odysseus
+  #### In-Progress
+  Docker, PostgreSQL Database Management Server
 ### Technologies
 Artificial Intelligence (AI), System analysis and design, Information Systems, Fundamental IT Technician skills, Fundamental Network Architecture
 ### Common Ecosystems
-Full microsoft ecosystem fundamentals, Full Google ecosystem fundamentals
-#### In-Progress
-Amazon Web Services (AWS)
+Full Microsoft ecosystem fundamentals, Full Google ecosystem fundamentals
+  #### In-Progress
+  Amazon Web Services (AWS)
 ###
 ---
 
@@ -35,7 +35,7 @@ Amazon Web Services (AWS)
 
 ## Contact
 
-- GitHub: You’re already here  
+- GitHub: You are already here  
 - LinkedIn: [Brandon Purcell](www.linkedin.com/in/brandon-purcell-89114736a)
 - Email: bzpbrandonpurcell@gmail.com
 
