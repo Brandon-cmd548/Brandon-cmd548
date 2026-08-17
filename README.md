@@ -19,7 +19,7 @@ Docker, PostgreSQL Database Management Server
 ### Technologies
 Artificial Intelligence (AI), System analysis and design, Information Systems, Fundamental IT Technician skills, Fundamental Network Architecture
 ### Common Ecosystems
-Full microsoft ecosystem understanding, Full Google ecosystem understanding
+Full microsoft ecosystem fundamentals, Full Google ecosystem fundamentals
 #### In-Progress
 Amazon Web Services (AWS)
 ###
