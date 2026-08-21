@@ -19,7 +19,7 @@ Git, GitHub, Visual Studio 2026, Visual Studio Code, IntelliJ IDEA, SQL Manageme
 ### Technologies
 Artificial Intelligence (AI), System analysis and design, Information Systems, Fundamental IT Technician skills, Fundamental Network Architecture
 ### Common Ecosystems
-Full Microsoft ecosystem fundamentals, Full Google ecosystem fundamentals
+Microsoft ecosystem fundamentals, Google ecosystem fundamentals
   #### In-Progress
   Amazon Web Services (AWS)
 ###
