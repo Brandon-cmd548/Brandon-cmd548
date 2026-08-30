@@ -1,8 +1,8 @@
 ## Howzit :)
 
-# Hi, I’m Brandon Zander Purcell
+# I’m Brandon Zander Purcell
 
-I’m a student and aspiring software/AI automation engineer with an interest in building practical, data-driven solutions and understanding how systems work in the professional industry.
+I’m a student and wannabe software/AI automation engineer with an interest in building practical, data-driven solutions and understanding how systems work in the professional industry.
 
 ---
 
@@ -13,7 +13,7 @@ C#, JavaScript, T-SQL, HTML, CSS, C++
   #### In-Progress
   Java, Python, PL/pgSQL, Machine Learning
 ### Tools:
-Git, GitHub, Visual Studio 2026, Visual Studio Code, IntelliJ IDEA, SQL Management Studio 2022, CISCO Packet Tracer, Ollama, Odysseus
+Git, GitHub, Ollama, Odysseus
   #### In-Progress
   Docker, PostgreSQL Database Management Server
 ### Technologies
