@@ -9,7 +9,7 @@ I’m a student and wannabe software/AI automation engineer with an interest in 
 ## Skills and Tools
 
 ### Languages:
-C#, JavaScript, T-SQL, HTML, CSS, C++
+C#, JavaScript, T-SQL, HTML, CSS, Basic C++
   #### In-Progress
   Java, Python, PL/pgSQL, Machine Learning
 ### Tools:
