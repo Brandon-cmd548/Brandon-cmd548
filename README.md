@@ -9,7 +9,7 @@ I’m a student and wannabe software/AI automation engineer with an interest in 
 ## Skills and Tools
 
 ### Languages:
-C#, JavaScript, T-SQL, HTML, CSS, Basic C++
+C#, JavaScript, T-SQL, HTML, CSS, Simple C++
   #### In-Progress
   Java, Python, PL/pgSQL, Machine Learning
 ### Tools:
@@ -18,7 +18,7 @@ Git, GitHub, Ollama, Odysseus
   Docker, PostgreSQL Database Management Server
 ### Technologies
 Artificial Intelligence (AI), System analysis and design, Information Systems, Fundamental IT Technician skills, Fundamental Network Architecture
-### Common Ecosystems
+### Common Cloud Ecosystems
 Microsoft ecosystem fundamentals, Google ecosystem fundamentals
   #### In-Progress
   Amazon Web Services (AWS)
